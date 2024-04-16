@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "SF Pro Thin";
+    src: url("./SF-Pro-Text-Thin.otf") format("opentype");
+    }
+    body {
+        font-family: "SF Pro Thin";
+}
+
+@font-face {
+    font-family: "SF Pro Regular";
+    src: url("./SF-Pro-Text-Regular.otf") format("opentype");
+    }
+    body {
+        font-family: "SF Pro Regular";
+}
+
+@font-face {
+    font-family: "Montserrat-Black";
+    src: url("./Montserrat-Black.ttf") format("opentype");
+    }
+    body {
+        font-family: "Montserrat-Black";
+}
